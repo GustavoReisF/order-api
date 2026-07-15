@@ -1,6 +1,6 @@
 # API de Pedidos
 
-API REST desenvolvida em Node.js para gerenciamento de pedidos.
+Projeto de teste técnico para praticar construção de API REST.
 
 ## Tecnologias utilizadas
 
